@@ -69,3 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Netfilx-Clone---React
 
+![alt text](https://github.com/Edi10-developer/Portfolio-Bootstrap/blob/master/img/projects/NetflixClone/Devices.png)
